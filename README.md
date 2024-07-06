@@ -1,7 +1,3 @@
-Here's a basic README file for your GitHub repository. You can customize it further as needed.
-
----
-
 # MyApp
 
 ## Description
@@ -83,14 +79,8 @@ MyApp is a Java Spring Boot application that demonstrates various features and f
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
-For any questions or suggestions, feel free to contact me at [your email address].
+For any questions or suggestions, feel free to contact me.
 
 ---
-
-Feel free to replace placeholders like `your_database_name`, `your_database_username`, `your_database_password`, and `[your email address]` with actual values.
