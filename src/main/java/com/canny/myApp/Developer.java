@@ -6,9 +6,9 @@ import org.springframework.stereotype.Component;
 @Component
 public class Developer {
     @Autowired //field injection
-    private Laptop laptop;
+    private Computer computer;
     public void build() {
-        laptop.compile();
+        computer.compile();
         System.out.println("Working on an awesome project");
     }
 }
